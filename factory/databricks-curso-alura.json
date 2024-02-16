@@ -1,0 +1,9 @@
+{
+	"name": "databricks-curso-alura",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "56e2b97f-27ce-4d98-8a6e-79999a59b46d",
+		"tenantId": "aa6cfdec-d2c8-49dd-adcd-3215d04cd263"
+	}
+}
